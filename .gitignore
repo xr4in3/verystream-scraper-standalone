@@ -1,0 +1,7 @@
+node_modules
+.idea
+dist
+types
+*.lerna_backup
+*.log
+/.nyc_output
