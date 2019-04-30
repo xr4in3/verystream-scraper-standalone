@@ -1,6 +1,6 @@
 # Verystream Scraper
 
-[![Build](https://travis-ci.org/MatejTuray/verystream-scraper-standalone.svg?branch=master)]
+[![Build](https://travis-ci.org/MatejTuray/verystream-scraper-standalone.svg?branch=master)
 [![npm version](https://badge.fury.io/js/verystream-scraper-standalone.svg)](https://www.npmjs.com/package/verystream-scraper-standalone)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/npm/dt/verystream-scraper-standalone.svg)](https://npmjs.org/package/verystream-scraper-standalone)
